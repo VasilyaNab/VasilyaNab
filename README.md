@@ -1,12 +1,17 @@
 # 💻 Tech Stack
 
-### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=python,django,redis)](https://skillicons.dev)  
-[![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-### Frontend & Design
-[![Frontend](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)  
-[![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+<div>
+  <div style="display: inline-block;">
+    <strong>Backend & Databases</strong><br>
+    [![Backend](https://skillicons.dev/icons?i=python,django,redis)](https://skillicons.dev)  
+    [![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+  </div>
+  <div style="display: inline-block; margin-left: 20px;">
+    <strong>Frontend & Design</strong><br>
+    [![Frontend](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)  
+    [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+  </div>
+</div>
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
