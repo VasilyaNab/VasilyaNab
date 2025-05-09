@@ -1,7 +1,7 @@
 # 💻 Tech Stack
 
 ### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=python,django,redis,celery)](https://skillicons.dev)  
+[![Backend](https://skillicons.dev/icons?i=python,django,redis)](https://skillicons.dev)  
 [![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ### Frontend & Design
