@@ -5,10 +5,10 @@
 | [![Backend](https://skillicons.dev/icons?i=python,django,redis)](https://skillicons.dev) | [![Frontend](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) |
 | [![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) | [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) |
 
-### Tools
+## Tools
 [![Tools](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-### Currently Learning:
+## Currently Learning:
 [![Learning](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
 
 # 📊 GitHub Stats
