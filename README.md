@@ -9,7 +9,7 @@
 [![Tools](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ## Currently Learning:
-[![Learning](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
+[![Learning](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)  
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=VasilyaNab&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)  
