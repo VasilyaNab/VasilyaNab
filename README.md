@@ -1,19 +1,35 @@
-# 💻 Tech Stack
+## 🛠 Мой стек технологий
 
-| Backend & Databases | Frontend & Design |
-|---------------------|-------------------|
-| [![Backend](https://skillicons.dev/icons?i=python,django,redis)](https://skillicons.dev) | [![Frontend](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) |
-| [![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) | [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) |
+**Backend:**
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-## Tools
-[![Tools](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+**Базы данных:**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-## Currently Learning:
-[![Learning](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)  
+**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+</p>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VasilyaNab&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=VasilyaNab&theme=blue_navy&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilyaNab&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+**Дизайн и инструменты:**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🎯 В настоящее время изучаю
+
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+</p>
