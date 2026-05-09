@@ -20,9 +20,3 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
 </div>
-
----
-
-### 📊 Most Used Languages (from my repos)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilyaNab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
