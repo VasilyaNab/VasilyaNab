@@ -25,6 +25,4 @@
 
 ### 📊 Most Used Languages (from my repos)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilyaNab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
